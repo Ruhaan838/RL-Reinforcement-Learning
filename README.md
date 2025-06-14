@@ -10,3 +10,14 @@
   - Markov Reward Processes
   - Markov Decision Processes
 - Code: Gridworld MDP simulation.
+
+## Day - 03
+- Learn about
+  - Policy Evaluation using temproal difference <br>
+  $V(s) \leftarrow V(s) + \alpha (r_t + \gamma V(s') - V(s))$ <br>
+  $V(s)$ : State Value Funtion <br>
+  $\alpha$ : Constant <br>
+  $r_t$ : reward <br>
+  $s'$ : new state <br>
+  $\gamma$ :  discount factor
+- Code: Policy Evaluation using temproal difference
