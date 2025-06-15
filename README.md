@@ -21,3 +21,7 @@
   $s'$ : new state <br>
   $\gamma$ :  discount factor
 - Code: Policy Evaluation using temproal difference
+
+## Day - 04
+- Bellman Equation and its optimal policy function
+- Code: Get optimal Value and policy using Bellman eqation
