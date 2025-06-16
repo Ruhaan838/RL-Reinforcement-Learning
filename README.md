@@ -25,3 +25,9 @@
 ## Day - 04
 - Bellman Equation and its optimal policy function
 - Code: Get optimal Value and policy using Bellman eqation
+
+## Day - 05
+- Policy Iteration
+  - two stage process in a markov Decision Process (1. Policy Evaluation and 2. Policy Improvement)
+
+- Code: Policy Iteration in grid world.
