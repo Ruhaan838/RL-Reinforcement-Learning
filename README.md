@@ -31,3 +31,8 @@
   - two stage process in a markov Decision Process (1. Policy Evaluation and 2. Policy Improvement)
 
 - Code: Policy Iteration in grid world.
+
+## Day - 06
+- Value Iteration
+
+- Code: Value Iteration in grid world.
