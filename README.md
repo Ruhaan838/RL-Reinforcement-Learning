@@ -36,3 +36,9 @@
 - Value Iteration
 
 - Code: Value Iteration in grid world.
+
+## day - 07
+
+- Epsilon Greedy
+  - eps greedy is very intersting policy algorithm.
+- Code: Implement Epsilon Greedy Algorithm for Treasure Trap Envirement.
