@@ -37,8 +37,15 @@
 
 - Code: Value Iteration in grid world.
 
-## day - 07
+## Day - 07
 
 - Epsilon Greedy
   - eps greedy is very intersting policy algorithm.
 - Code: Implement Epsilon Greedy Algorithm for Treasure Trap Envirement.
+
+
+## Day - 08
+
+- MCP(Monte Carlo Prediction)
+
+- Code: simple implementation of MCP 
