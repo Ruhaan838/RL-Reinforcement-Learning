@@ -49,3 +49,9 @@
 - MCP(Monte Carlo Prediction)
 
 - Code: simple implementation of MCP 
+
+## Day - 09
+
+- MC Control for Ad-click simulation
+
+- Code: MC control for Ad-click simulation
