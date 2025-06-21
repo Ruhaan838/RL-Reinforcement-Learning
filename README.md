@@ -55,3 +55,8 @@
 - MC Control for Ad-click simulation
 
 - Code: MC control for Ad-click simulation
+
+## Day - 10
+
+- Temporal-Difference (TD) Learning - TD(0)
+- Code: using gym envirement "FrozenLake-v1" implement the TD-0
