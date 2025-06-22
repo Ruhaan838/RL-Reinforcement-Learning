@@ -60,3 +60,8 @@
 
 - Temporal-Difference (TD) Learning - TD(0)
 - Code: using gym envirement "FrozenLake-v1" implement the TD-0
+
+## Day - 11
+
+- SARSA is an on-policy TD(temporal-Diffrence) control algorithm.
+- Code: using gym envirement "FrozenLake-v1" implement the SARASA.
