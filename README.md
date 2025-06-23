@@ -65,3 +65,7 @@
 
 - SARSA is an on-policy TD(temporal-Diffrence) control algorithm.
 - Code: using gym envirement "FrozenLake-v1" implement the SARASA.
+
+## Day - 12
+- Learn Q Learning
+- Code: using gym Taxi-v3 envirement implement the Q learning elgorithm.
