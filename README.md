@@ -69,3 +69,7 @@
 ## Day - 12
 - Learn Q Learning
 - Code: using gym Taxi-v3 envirement implement the Q learning elgorithm.
+
+## Day - 13
+- On-policy vs Off-policy
+- Code: Compare SARSA and Q-Learning	Conceptual and coding differences
