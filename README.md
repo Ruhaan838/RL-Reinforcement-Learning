@@ -1,3 +1,4 @@
+# RL Fundamentals
 ## Day - 01
 
 - Learns what is RL? and learn about Agenet, Env, Rewards, Policy.
@@ -73,3 +74,9 @@
 ## Day - 13
 - On-policy vs Off-policy
 - Code: Compare SARSA and Q-Learning	Conceptual and coding differences
+
+# Deep RL
+
+## Day - 14
+- REINFORCE Algorithm
+- Code REINFORCE algo in pytorch.
