@@ -80,3 +80,7 @@
 ## Day - 14
 - REINFORCE Algorithm
 - Code REINFORCE algo in pytorch.
+
+## Day - 15
+- REINFORCE with baseline 
+- Code REINFORCE with baseline algo in pytorch using gym envirement CartPole-v1
