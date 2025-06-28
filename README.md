@@ -84,3 +84,12 @@
 ## Day - 15
 - REINFORCE with baseline 
 - Code REINFORCE with baseline algo in pytorch using gym envirement CartPole-v1
+
+## Day - 16
+- Actor-Critic methods.
+- Code: Implement Basic Actor-Critic.
+
+## Day - 17
+
+- Deep Q-Learning
+- Code Deep Q-Learning using pytorch for CartPole envirement.
