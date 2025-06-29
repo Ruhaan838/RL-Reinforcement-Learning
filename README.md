@@ -93,3 +93,15 @@
 
 - Deep Q-Learning
 - Code Deep Q-Learning using pytorch for CartPole envirement.
+
+## Day - 18
+
+- Dueling DQN
+
+
+- Standard DQN:
+  - Input -> Dense Layers -> Output (num_actions)
+- Dueling DQN:
+  - Input -> Shared Dense Layers -> Value Stream -> V(s) -> Advantage Stream -> A(s,a) <br>
+    Combine: Q(s,a) = V(s) + (A(s,a) - mean(A))
+
