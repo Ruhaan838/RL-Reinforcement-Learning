@@ -105,3 +105,7 @@
   - Input -> Shared Dense Layers -> Value Stream -> V(s) -> Advantage Stream -> A(s,a) <br>
     Combine: Q(s,a) = V(s) + (A(s,a) - mean(A))
 
+## Day - 19
+
+- Double DQN:
+- Implment the Double DQN using MountainCar-v0 envirement from gym.

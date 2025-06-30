@@ -124,6 +124,7 @@ def test(env, device, online_net):
     state, _ = env.reset()
     done = False
     total_reward = 0
+    steps = 0
 
     while not done:
         env.render()
@@ -137,6 +138,9 @@ def test(env, device, online_net):
 
         print(f"Test Reward: {total_reward}")
         env.close()
+        steps += 1
+        if steps > 1000:
+            break
 
 
 train(env, batch_size, gamma, 
