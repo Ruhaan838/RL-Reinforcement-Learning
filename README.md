@@ -108,4 +108,9 @@
 ## Day - 19
 
 - Double DQN:
-- Implment the Double DQN using MountainCar-v0 envirement from gym.
+- Implement the Double DQN using MountainCar-v0 envirement from gym.
+
+## Day - 20
+
+- Prioritized Replay
+- Implement PER using pytorch and gym
