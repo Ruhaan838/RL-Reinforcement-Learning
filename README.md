@@ -114,3 +114,7 @@
 
 - Prioritized Replay
 - Implement PER using pytorch and gym
+
+## Day - 21
+- Prectice on other envirement.
+- Implement the DQN on LunarLander using torch and gym.
