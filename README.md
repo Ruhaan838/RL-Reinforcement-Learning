@@ -118,3 +118,6 @@
 ## Day - 21
 - Prectice on other envirement.
 - Implement the DQN on LunarLander using torch and gym.
+
+## Day - 22
+- Implement the DQN, Dueling DQN, Double DQN in PongNoFrameskip from gym.
