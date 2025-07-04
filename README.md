@@ -121,3 +121,6 @@
 
 ## Day - 22
 - Implement the DQN, Dueling DQN, Double DQN in PongNoFrameskip from gym.
+
+## Day - 23
+- Implement the A2C(Advantage Actor-Critic) in Pytorch using gym env.
