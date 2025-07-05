@@ -124,3 +124,6 @@
 
 ## Day - 23
 - Implement the A2C(Advantage Actor-Critic) in Pytorch using gym env.
+
+## Day - 24
+- Implement the A3C(Asynchronous Advantage Actor-Critic) in Pytorch using gym env.
