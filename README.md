@@ -127,3 +127,6 @@
 
 ## Day - 24
 - Implement the A3C(Asynchronous Advantage Actor-Critic) in Pytorch using gym env.
+
+## Day - 25
+- Implement the trpo in pytorch.
