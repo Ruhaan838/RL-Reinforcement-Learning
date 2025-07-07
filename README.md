@@ -130,3 +130,6 @@
 
 ## Day - 25
 - Implement the trpo in pytorch.
+
+## Day - 26
+- Implement PPO in pendulum env (failed).
