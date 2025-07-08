@@ -133,3 +133,6 @@
 
 ## Day - 26
 - Implement PPO in pendulum env (failed).
+
+## Day - 27
+- Implement PPO in pendulum gym env.
