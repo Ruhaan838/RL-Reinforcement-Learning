@@ -136,3 +136,6 @@
 
 ## Day - 27
 - Implement PPO in pendulum gym env.
+
+## Day - 28
+- Implement the PPO and TRPO in Hopper-v5 env.
