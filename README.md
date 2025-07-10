@@ -139,3 +139,6 @@
 
 ## Day - 28
 - Implement the PPO and TRPO in Hopper-v5 env.
+
+## Day - 29
+- Implement the CNN + PPO for CarRacing-v3
