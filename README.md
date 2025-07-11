@@ -142,3 +142,8 @@
 
 ## Day - 29
 - Implement the CNN + PPO for CarRacing-v3
+
+# Advanced RL Techniques.
+
+## Day - 30
+- Implement the C51 Algorithm.
