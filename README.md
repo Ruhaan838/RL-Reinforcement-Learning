@@ -147,3 +147,6 @@
 
 ## Day - 30
 - Implement the C51 Algorithm.
+
+## Day - 31
+- Noisy Networks to a DQN using torch.
