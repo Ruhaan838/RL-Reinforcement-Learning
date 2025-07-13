@@ -150,3 +150,6 @@
 
 ## Day - 31
 - Noisy Networks to a DQN using torch.
+
+## Day - 32
+- Implement the rainbow DQN in torch.
