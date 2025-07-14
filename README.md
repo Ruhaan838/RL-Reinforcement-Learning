@@ -153,3 +153,7 @@
 
 ## Day - 32
 - Implement the rainbow DQN in torch.
+
+## Day - 33
+- World Models -> VAE + MDN-RNN + Controller implement in `World_models.py` using pytorch.
+- Dreamers Models -> Encoder -> RSSM -> Decoder -> Actor -> Critic implement in `dreamers_rssm.py` using pytorch.
