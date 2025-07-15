@@ -157,3 +157,6 @@
 ## Day - 33
 - World Models -> VAE + MDN-RNN + Controller implement in `World_models.py` using pytorch.
 - Dreamers Models -> Encoder -> RSSM -> Decoder -> Actor -> Critic implement in `dreamers_rssm.py` using pytorch.
+
+## Day - 34
+- Implement the Dyna-Q in torch.
