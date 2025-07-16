@@ -160,3 +160,11 @@
 
 ## Day - 34
 - Implement the Dyna-Q in torch.
+
+## Day - 35
+- Implement 
+  - PPOActorCritic
+  - RNFTarget
+  - RNDPredictor
+  - ICMEncoder
+  - ICMInverseModel
