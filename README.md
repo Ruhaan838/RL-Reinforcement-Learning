@@ -172,3 +172,6 @@
 ## Day - 36
 - Very simple but very useful in RL 
 - RL²(Recurrent Policy for Meta-RL) and MAML(Model-Agnostic Meta-Learning)
+
+## Day - 37
+- Implement Meta-RL with minigrid world (failed)
