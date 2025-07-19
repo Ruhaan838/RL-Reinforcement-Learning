@@ -175,3 +175,7 @@
 
 ## Day - 37
 - Implement Meta-RL with minigrid world (failed)
+
+## Day - 38
+- Due to the Gym the I can't implement the minigrid world 
+  - So I implement the only model.
