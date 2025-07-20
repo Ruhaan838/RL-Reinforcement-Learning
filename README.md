@@ -179,3 +179,6 @@
 ## Day - 38
 - Due to the Gym the I can't implement the minigrid world 
   - So I implement the only model.
+
+## Day - 39
+- Implement the Feudal Net in gym and pytorch.
