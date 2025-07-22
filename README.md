@@ -182,3 +182,12 @@
 
 ## Day - 39
 - Implement the Feudal Net in gym and pytorch.
+
+## Day - 40
+- Implement the HER (Hindsight Experience Replay) in Pytorch.
+
+## Day - 41
+- Implement the offline RL with Behavior Cloning, and BCQ in Pytorch.
+
+## Day - 42
+- Implement the D4Rl in Pytorch.
