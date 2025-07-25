@@ -197,3 +197,6 @@
 
 ## Day - 44
 - Implement the Inverse RL in Pytorch.
+
+## Day - 45
+- Implement the Safe RL in Pytorch.
