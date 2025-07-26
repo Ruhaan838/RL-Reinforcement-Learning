@@ -200,3 +200,8 @@
 
 ## Day - 45
 - Implement the Safe RL in Pytorch.
+
+# LLMs, Games & Vision in RL (Advanced RL - Part:2)
+
+## Day - 46
+- Implement the simple text predictor with LSTM and with ingeration of LSTM.
