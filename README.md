@@ -194,3 +194,6 @@
 
 ## Day - 43
 - Implement the Imitation Learning with Behavior Cloning.
+
+## Day - 44
+- Implement the Inverse RL in Pytorch.
